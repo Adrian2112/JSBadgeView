@@ -36,7 +36,7 @@
 #define kShadowColor [UIColor colorWithWhite:0.0f alpha:kShadowOpacity]
 #define kShadowRadius 1.0f
 
-#define kBadgeHeight 16.0f
+#define kBadgeHeight 14.0f
 #define kBadgeTextSideMargin 8.0f
 
 #define kBadgeCornerRadius 10.0f
